@@ -19,6 +19,10 @@ I was curious to learn what Next.js offers as a full-stack React framework, and 
 
 ## 🤩 Final Product
 
+**Demo Video**
+
+https://github.com/kazvee/foodies-next/assets/109990289/2f05a76c-35c7-40c5-aff3-b2664378b217
+
 **Homepage View**
 
 ![Homepage View](assets/readme/NextLevel_Food_Homepage_View.png)
